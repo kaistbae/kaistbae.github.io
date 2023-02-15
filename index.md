@@ -1,10 +1,5 @@
 ---
 title:  "Doo-Hwan Bae"
-categories:
-  - CV
-tags:
-  - CV
-last_modified_at: 2023-02-15T00:00:00-00:00  
 classes: wide
 comments: false
 ---

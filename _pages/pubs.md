@@ -1,11 +1,5 @@
 ---
 title:  "Publications"
-
-categories:
-  - publication
-tags:
-  - publication
-last_modified_at: 2023-02-15T00:00:00-00:00  
 permalink: /Pubs/ 
 layout: posts
 author_profile: true
